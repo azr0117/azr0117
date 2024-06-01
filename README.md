@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @azr0117
-- 👀 I’m interested in Drone, Lidar and GIS applications
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Arjun Rijal
+- 👀 I’m interested in Drone, Lidar, and GIS applications in Forestry
+
 
 <!---
 azr0117/azr0117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
